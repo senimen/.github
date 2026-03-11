@@ -1,72 +1,51 @@
 <h1 align="center">Senimen</h1>
 
 <p align="center">
-Anime & Dorama platform in Kazakh language 🇰🇿
-</p>
-
-<p align="center">
-A modern platform for watching anime and doramas with Kazakh dubbing and subtitles.
+Қазақстандағы аниме мен дорамаларды көруге арналған платформа 🇰🇿
 </p>
 
 ---
 
-## About Senimen
+## Біз туралы
 
-**Senimen** is a platform designed for Kazakh-speaking audiences who want to watch anime and doramas in their native language.
+**Senimen** — аниме және дорамаларды қазақ тілінде көруге арналған заманауи платформа.
 
-Our mission is to make Eastern entertainment content more accessible by providing:
+Біздің мақсатымыз — шығыс киноиндустриясының контентін қазақ тілді аудиторияға қолжетімді ету және сапалы локализация ұсыну.
 
-- 🇰🇿 Kazakh dubbing
-- 💬 Kazakh subtitles
-- ⚡ Fast and convenient interface
-- 🔄 Daily updates
-- ⭐ Ratings and comments from the community
+Платформа пайдаланушыларға аниме мен дорамаларды:
 
-Users can track their progress and manage personal lists such as:
+- қазақша дубляжбен
+- қазақша субтитрмен
+- ыңғайлы интерфейспен
+- тұрақты жаңартулармен
 
-- Watching
-- Planned
-- Completed
-- Dropped
-- On hold
+көруге мүмкіндік береді.
 
 ---
 
-## Features
+## Мүмкіндіктер
 
-- 📺 Anime & Dorama library
-- 🔊 Kazakh voice dubbing
-- 💬 Community comments and ratings
-- 📝 Personal watch lists
-- 🚀 Modern mobile-first platform
-- ❌ No ads
-
----
-
-## Project Ecosystem
-
-This organization contains all projects related to the **Senimen platform**:
-
-- Platform backend
-- Mobile applications
-- Web services
-- Internal tools
+- 📺 Аниме және дорама кітапханасы  
+- 🔊 Қазақ тіліндегі дубляж  
+- 💬 Пікірлер мен рейтинг жүйесі  
+- 📋 Жеке көру тізімдері  
+- ⚡ Жылдам және ыңғайлы интерфейс  
 
 ---
 
-## Links
+## Senimen экожүйесі
 
-🌐 Website  
+Бұл ұйым **Senimen платформасына қатысты барлық жобаларды** біріктіреді.
+
+---
+
+## Сілтемелер
+
+🌐 Веб-сайт  
 https://senimen.app
 
 ---
 
-## Mission
-
-Our goal is to build the **#1 Kazakh anime platform** and create a community around anime and doramas for Kazakh-speaking users.
-
----
-
 <p align="center">
-Made with ❤️ in Kazakhstan
+Made in Kazakhstan 🇰🇿
 </p>
