@@ -1,7 +1,7 @@
 <h1 align="center">Senimen</h1>
 
 <p align="center">
-Қазақстандағы аниме мен дорамаларды көруге арналған платформа
+Қазақстандағы аниме мен дорамаларды көруге арналған платформа 🇰🇿
 </p>
 
 ---
@@ -47,5 +47,5 @@ https://senimen.app
 ---
 
 <p align="center">
-Made in Kazakhstan
+Made in Kazakhstan 🇰🇿
 </p>
